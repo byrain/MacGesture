@@ -140,3 +140,5 @@ defaults import com.codefalling.MacGesture backup.plist
 # 讨论
 
 讨论可以加入qq群：498035635 (You can join the discussion in QQ Group 498035635).
+
+Fork from macgesture/macgesture
